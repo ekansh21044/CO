@@ -1,2 +1,1 @@
-# CO
- Created an Assembler and Simulator for Assembly Language
+# CO_Project_A66
